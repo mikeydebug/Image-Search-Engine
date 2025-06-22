@@ -66,24 +66,24 @@ const accesskey = "your_access_key_here";
 ---
 
 
-##💡 Future Enhancements
-	•	Dark mode toggle 🌙
-	•	Image download button 💾
-	•	Search history tracking 🕘
-	•	Error handling for failed API calls ❌
+## 💡Future Enhancements
+•	Dark mode toggle 🌙
+•	Image download button 💾
+•	Search history tracking 🕘
+•	Error handling for failed API calls ❌
  ---
-##🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome! Fork the repository, make changes, and open a pull request.
-
-⸻
-📄 License
+---
+## 📄 License
 
 This project is open-source and available under the MIT License.
 ---
-##🙌 Acknowledgements
-	•	Unsplash API for the stunning image data
-	•	Inspired by modern web design simplicity ✨
+## 🙌 Acknowledgements
+
+•	Unsplash API for the stunning image data
+•	Inspired by modern web design simplicity ✨
  ---
 # Designed & Built by Mayank Soni ❤️
 
