@@ -47,7 +47,7 @@ Image-Search-Engine/
 
 1. **Clone the Repository**
 
-   git clone https://github.com/your-username/image-search-engine.git
+   git clone https://github.com/mikwydebug/image-search-engine.git
    cd image-search-engine
    
 2.	Replace API Key
